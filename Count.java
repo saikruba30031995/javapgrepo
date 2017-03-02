@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-class digitCount {
+class Count {
     public static void main(String args[])
     {   
         int n, i=0;
